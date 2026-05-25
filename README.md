@@ -1,4 +1,6 @@
 updated guns.lol Usernames
 
-last available 3L/3C
-last available repeater
+- last 3L/3C available
+- last repeater available
+
+my checker say it's not claimed but possible banned usernames
