@@ -1,7 +1,7 @@
 updated guns.lol Usernames
 
 i list every :
-- last 3C available / (no -) only A-Z + 0-9 Soon . and _ 3C
+- last 3C available / (no -) only A-Z + 0-9 Soon . and _ 3C/3L
 - last repeater available / ex : @yyyyyyyyyyy etc
 - last availble OGs Usernames / Semi-OG Usernames like @compressor @improvement etc
 
