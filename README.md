@@ -1,1 +1,4 @@
-updated guns.lol 3L/C available 29/07/2025
+updated guns.lol Usernames
+
+last available 3L/3C
+last available repeater
