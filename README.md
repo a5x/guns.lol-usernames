@@ -10,5 +10,5 @@ stats:
 - all 3 Letters are taken, now only 3 Characters are available (~150 available)
 - all 2Letters/2Characters are taken
 - all 1 letter are taken
-- around 50-60% of good OG Usernames are taken like @god @cry @danger @savage @adapter etc etc
-- Repeater Usernames over 87% are taken likd @yyyyyyy @iiiiiii etc (last repeater @ are listed in my txt)
+- around 70-80% of good OG Usernames are taken like @god @cry @danger @savage @adapter etc etc
+- Repeater Usernames over 87% are taken like @yyyyyyy @iiiiiii etc (last repeater @ are listed in my txt)
