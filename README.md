@@ -1,7 +1,9 @@
 updated guns.lol Usernames
 
+i list every :
 - last 3C available / (no - _ or .) only A-Z + 0-9
 - last repeater available / ex : @yyyyyyyyyyy etc
+- last availble OGs Usernames / Semi-OG Usernames like @compressor @improvement etc
 
 my checker say it's not claimed but possible banned usernames
 
