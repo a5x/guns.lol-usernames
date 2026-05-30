@@ -9,7 +9,7 @@ my checker say it's not claimed but possible banned usernames
 
 stats:
 
-- all 3 Letters are taken, now only 3 Characters are available (~550 available)
+- all 3 Letters are taken, now only 3 Characters are available (~450 available)
 - all 2Letters/2Characters are taken
 - all 1 letter are taken
 - around 70-80% of good OG Usernames are taken like @god @cry @danger @savage @adapter etc etc
