@@ -1,4 +1,3 @@
-a3y
 bi6
 bi7
 bi9
@@ -11,9 +10,6 @@ c42
 di2
 e6x
 e6y
-jn8
-la6
-l38
 l4a
 mh6
 mh8
@@ -136,7 +132,6 @@ BV_
 BW_
 B6_
 B_8
-CR_
 C8_
 C8.
 C_5
@@ -148,8 +143,6 @@ EF_
 EK_
 E_4
 E_7
-E.0
-FT_
 FZ_
 GA_
 GI_
@@ -181,7 +174,6 @@ O1_
 O4.
 O6_
 O8_
-PW.
 P0.
 P2_
 P3.
@@ -195,27 +187,20 @@ QY_
 Q0_
 Q2_
 Q_2
-RH_
 R5_
-R_5
 R_8
 TL_
 TP_
 TW_
-TW.
 T6_
 UB_
-UF.
 UG_
 UL_
 UO_
-UO.
 U0_
 VG_
 VH_
-VH.
 VJ_
-VM_
 WB_
 WC_
 W3_
@@ -223,7 +208,6 @@ W4_
 W6_
 XB_
 XG_
-X4_
 X9_
 YC_
 Z3_
@@ -238,13 +222,10 @@ Z5.
 1T_
 1_H
 2G_
-2P.
 2_H
-3G.
 3_A
 4M_
 4R.
-4Y_
 4_M
 5C_
 5O_
@@ -262,7 +243,6 @@ Z5.
 6Q_
 6V_
 6_A
-6_L
 6_P
 6_T
 6_W
@@ -297,7 +277,6 @@ _DN
 _DT
 _EO
 _FI
-_FW
 _F0
 _GJ
 _GP
@@ -402,6 +381,7 @@ _8T
 _9N
 _9U
 _9W
-.FR
-.HV
-.8G
+jn8
+la6
+l38
+CR_
