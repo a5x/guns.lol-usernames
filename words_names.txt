@@ -8,8 +8,6 @@ password currently banned
 workflow
 business currently banned
 branding
-basketball
-training
 catapult
 clocktower
 cloudburst
@@ -45,7 +43,6 @@ zonebreaker
 amplifier
 backfire
 barricade
-breakout
 codebase
 coldstrike
 corepulse
@@ -63,7 +60,6 @@ hammerfall
 hardpoint
 icewave
 impactzone
-inferno
 ironforge
 jetstream
 liftoff
