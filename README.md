@@ -1,4 +1,4 @@
-updated guns.lol Usernames
+updated guns.lol Usernames 08/6/2026
 
 i list every :
 - last 3C available / (no -) only A-Z + 0-9 
