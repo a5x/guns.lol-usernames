@@ -1,7 +1,5 @@
-Discord
 GoogleMeet
 MicrosoftTeams
-Deliveroo
 Booking.com
 Expedia
 Tripadvisor
@@ -44,12 +42,9 @@ Barclays
 Citibank
 TotalEnergies
 ExxonMobil
-Chevron
 GeneralElectric
 Johnson&Johnson
-Novartis
 Sanofi
-AstraZeneca
 Moderna
 Abbott
 Medtronic
